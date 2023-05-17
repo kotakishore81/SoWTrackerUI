@@ -1,0 +1,19 @@
+.navbarHeader {
+    background-color: black;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .logo{
+        width: 93px;
+        height: 25px;
+        margin-left: 53px;
+    }
+    .username{
+        color: white;
+        right: 0px;
+        margin-right: 145px;
+        font-size: large;
+    }
+   
+}
